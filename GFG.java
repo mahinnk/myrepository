@@ -33,7 +33,7 @@ else if(score==(a[i]*a[j])){
 }
 }
 else{
-//System.out.println("inside pit");
+
 z=a[i];
 }
 }
